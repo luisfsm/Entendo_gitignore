@@ -1,0 +1,6 @@
+C:\AprendendoCsharp\AprendendoCsharp\4_Converssões_e_outros_tipos\bin\Debug\4_Converssões_e_outros_tipos.exe
+C:\AprendendoCsharp\AprendendoCsharp\4_Converssões_e_outros_tipos\bin\Debug\4_Converssões_e_outros_tipos.pdb
+C:\AprendendoCsharp\AprendendoCsharp\4_Converssões_e_outros_tipos\obj\Debug\4_Converssões_e_outros_tipos.csproj.CoreCompileInputs.cache
+C:\AprendendoCsharp\AprendendoCsharp\4_Converssões_e_outros_tipos\obj\Debug\4_Converssões_e_outros_tipos.exe
+C:\AprendendoCsharp\AprendendoCsharp\4_Converssões_e_outros_tipos\obj\Debug\4_Converssões_e_outros_tipos.pdb
+C:\AprendendoCsharp\AprendendoCsharp\4_Converssões_e_outros_tipos\obj\Debug\4_Converssões_e_outros_tipos.csprojAssemblyReference.cache

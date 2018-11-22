@@ -1,0 +1,11 @@
+C:\AprendendoCsharp\AprendendoCsharp\Impar_par\bin\Debug\netcoreapp2.1\Impar_par.deps.json
+C:\AprendendoCsharp\AprendendoCsharp\Impar_par\bin\Debug\netcoreapp2.1\Impar_par.runtimeconfig.json
+C:\AprendendoCsharp\AprendendoCsharp\Impar_par\bin\Debug\netcoreapp2.1\Impar_par.runtimeconfig.dev.json
+C:\AprendendoCsharp\AprendendoCsharp\Impar_par\bin\Debug\netcoreapp2.1\Impar_par.dll
+C:\AprendendoCsharp\AprendendoCsharp\Impar_par\bin\Debug\netcoreapp2.1\Impar_par.pdb
+C:\AprendendoCsharp\AprendendoCsharp\Impar_par\obj\Debug\netcoreapp2.1\Impar_par.csprojAssemblyReference.cache
+C:\AprendendoCsharp\AprendendoCsharp\Impar_par\obj\Debug\netcoreapp2.1\Impar_par.csproj.CoreCompileInputs.cache
+C:\AprendendoCsharp\AprendendoCsharp\Impar_par\obj\Debug\netcoreapp2.1\Impar_par.AssemblyInfoInputs.cache
+C:\AprendendoCsharp\AprendendoCsharp\Impar_par\obj\Debug\netcoreapp2.1\Impar_par.AssemblyInfo.cs
+C:\AprendendoCsharp\AprendendoCsharp\Impar_par\obj\Debug\netcoreapp2.1\Impar_par.dll
+C:\AprendendoCsharp\AprendendoCsharp\Impar_par\obj\Debug\netcoreapp2.1\Impar_par.pdb

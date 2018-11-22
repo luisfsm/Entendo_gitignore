@@ -1,0 +1,6 @@
+C:\AprendendoCsharp\AprendendoCsharp\6-1-if\bin\Debug\6-1-if.exe
+C:\AprendendoCsharp\AprendendoCsharp\6-1-if\bin\Debug\6-1-if.pdb
+C:\AprendendoCsharp\AprendendoCsharp\6-1-if\obj\Debug\6-1-if.csprojAssemblyReference.cache
+C:\AprendendoCsharp\AprendendoCsharp\6-1-if\obj\Debug\6-1-if.csproj.CoreCompileInputs.cache
+C:\AprendendoCsharp\AprendendoCsharp\6-1-if\obj\Debug\6-1-if.exe
+C:\AprendendoCsharp\AprendendoCsharp\6-1-if\obj\Debug\6-1-if.pdb

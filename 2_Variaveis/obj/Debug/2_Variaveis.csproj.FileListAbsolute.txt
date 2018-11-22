@@ -1,0 +1,6 @@
+C:\AprendendoCsharp\AprendendoCsharp\2_Variaveis\bin\Debug\2_Variaveis.exe
+C:\AprendendoCsharp\AprendendoCsharp\2_Variaveis\bin\Debug\2_Variaveis.pdb
+C:\AprendendoCsharp\AprendendoCsharp\2_Variaveis\obj\Debug\2_Variaveis.csprojAssemblyReference.cache
+C:\AprendendoCsharp\AprendendoCsharp\2_Variaveis\obj\Debug\2_Variaveis.csproj.CoreCompileInputs.cache
+C:\AprendendoCsharp\AprendendoCsharp\2_Variaveis\obj\Debug\2_Variaveis.exe
+C:\AprendendoCsharp\AprendendoCsharp\2_Variaveis\obj\Debug\2_Variaveis.pdb

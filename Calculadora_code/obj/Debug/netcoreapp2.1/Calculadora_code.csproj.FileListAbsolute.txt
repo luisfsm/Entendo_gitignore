@@ -1,0 +1,10 @@
+C:\AprendendoCsharp\AprendendoCsharp\Calculadora_code\bin\Debug\netcoreapp2.1\Calculadora_code.deps.json
+C:\AprendendoCsharp\AprendendoCsharp\Calculadora_code\bin\Debug\netcoreapp2.1\Calculadora_code.runtimeconfig.json
+C:\AprendendoCsharp\AprendendoCsharp\Calculadora_code\bin\Debug\netcoreapp2.1\Calculadora_code.runtimeconfig.dev.json
+C:\AprendendoCsharp\AprendendoCsharp\Calculadora_code\bin\Debug\netcoreapp2.1\Calculadora_code.dll
+C:\AprendendoCsharp\AprendendoCsharp\Calculadora_code\bin\Debug\netcoreapp2.1\Calculadora_code.pdb
+C:\AprendendoCsharp\AprendendoCsharp\Calculadora_code\obj\Debug\netcoreapp2.1\Calculadora_code.csproj.CoreCompileInputs.cache
+C:\AprendendoCsharp\AprendendoCsharp\Calculadora_code\obj\Debug\netcoreapp2.1\Calculadora_code.AssemblyInfoInputs.cache
+C:\AprendendoCsharp\AprendendoCsharp\Calculadora_code\obj\Debug\netcoreapp2.1\Calculadora_code.AssemblyInfo.cs
+C:\AprendendoCsharp\AprendendoCsharp\Calculadora_code\obj\Debug\netcoreapp2.1\Calculadora_code.dll
+C:\AprendendoCsharp\AprendendoCsharp\Calculadora_code\obj\Debug\netcoreapp2.1\Calculadora_code.pdb

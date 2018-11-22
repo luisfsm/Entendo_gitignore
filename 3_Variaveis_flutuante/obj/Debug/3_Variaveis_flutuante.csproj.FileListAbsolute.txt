@@ -1,0 +1,6 @@
+C:\AprendendoCsharp\AprendendoCsharp\3_Variaveis_flutuante\bin\Debug\3_Variaveis_flutuante.exe
+C:\AprendendoCsharp\AprendendoCsharp\3_Variaveis_flutuante\bin\Debug\3_Variaveis_flutuante.pdb
+C:\AprendendoCsharp\AprendendoCsharp\3_Variaveis_flutuante\obj\Debug\3_Variaveis_flutuante.csprojAssemblyReference.cache
+C:\AprendendoCsharp\AprendendoCsharp\3_Variaveis_flutuante\obj\Debug\3_Variaveis_flutuante.csproj.CoreCompileInputs.cache
+C:\AprendendoCsharp\AprendendoCsharp\3_Variaveis_flutuante\obj\Debug\3_Variaveis_flutuante.exe
+C:\AprendendoCsharp\AprendendoCsharp\3_Variaveis_flutuante\obj\Debug\3_Variaveis_flutuante.pdb
